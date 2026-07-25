@@ -20,7 +20,8 @@ An institutional-grade parametric insurance backtesting and pricing engine engin
 ```bash
 # Clone the repository
 git clone https://github.com
-cd your-repo-name
+cd InRisk-Parametric-Underwriting-Pricing-Engine
+
 
 # Install required dependencies
 pip install streamlit pandas numpy scipy plotly pyngrok
